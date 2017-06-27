@@ -1,4 +1,4 @@
-# ft_carHud
+# ft_carSpeedHud
 
 ### Installing
 
@@ -7,7 +7,7 @@ Put the folder where you want it and add it to the citmp-server.yml file
 Example:
 
 ```
-- ft_carHud
+- ft_carSpeedHud
 ```
 
 ## License
